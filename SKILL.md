@@ -1,12 +1,10 @@
 ---
 name: apply-generational-contradiction
-description: Identify and expose the contradictions specific to millennial/Gen-Z behavior—highlighting
-  how the generation is simultaneously progressive and anxious, politically engaged
-  and emotionally avoidant,...
+description: Identify and expose the contradictions specific to millennial/Gen-Z behavior—highlighting how the generation is simultaneously progressive and anxious, politically engaged and emotionally avoidant,...
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1
 keywords:
 - apply-generational-contradiction
 - comedy
